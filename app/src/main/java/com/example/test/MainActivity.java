@@ -1,4 +1,4 @@
-package com.example.test; ///수정
+package com.example.test; ///수정의수정의 수정을한다
 
 import androidx.appcompat.app.AppCompatActivity;
 
