@@ -1,4 +1,4 @@
-package com.example.test;ㅁㄴㅇㄹ
+package com.example.test; // 이거닷
 
 import androidx.appcompat.app.AppCompatActivity;
 
