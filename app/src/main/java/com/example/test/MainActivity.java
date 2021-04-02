@@ -1,4 +1,4 @@
-package com.example.test;
+package com.example.test; ///수정
 
 import androidx.appcompat.app.AppCompatActivity;
 
